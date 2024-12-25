@@ -1,0 +1,7 @@
+2024/12/25 15:40:49 gamestate.go:368: Loading 6k1/b7/8/8/5p2/7p/7P/7K w - - 0 54
+2024/12/25 15:40:49 gamestate.go:446: Half move clock parsed:  0
+2024/12/25 15:40:49 gamestate.go:456: Full move count parsed:  54
+2024/12/25 15:40:49 gamestate.go:368: Loading 6k1/P7/8/4b3/5p2/7p/7P/7K w - - 1 54
+2024/12/25 15:40:49 gamestate.go:446: Half move clock parsed:  1
+2024/12/25 15:40:49 gamestate.go:456: Full move count parsed:  54
+2024/12/25 15:40:49 gamestate.go:475: Q5k1/8/8/4b3/5p2/7p/7P/7K b - - 0 54
